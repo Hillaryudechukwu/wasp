@@ -21,16 +21,14 @@ You are presented with a **nest of wasps**:
 
 ---
 
-##  Project Structure
-
 ##  Requirements
 - PHP 8.2
 
 ## Installation
 - Clone this repository into your web root
 ```bash
-- git clone https://github.com/your-username/wasp-game.git
-   cd wasp-game
+- git clone https://git@github.com:Hillaryudechukwu/wasp.git
+   cd wasp
    ```
 - Run:
 ```bash
