@@ -32,9 +32,9 @@ You are presented with a **nest of wasps**:
    ```
 - Run:
 ```bash
- php -S localhost:8000
+ php -S localhost:8001
  ```
-- You can localhost:8000 or localhost:8000/noCssWasp.php to play
+- You can localhost:8001 or localhost:8001/noCssWasp.php to play
 ##  Run Test
 ```bash
 php waspsTest.php
