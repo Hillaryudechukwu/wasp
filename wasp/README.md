@@ -34,7 +34,7 @@ You are presented with a **nest of wasps**:
 ```bash
  php -S localhost:8000
  ```
-
-##  Run the Test
+- You can localhost:8000 or localhost:8000/noCssWasp.php to play
+##  Run Test
 ```bash
 php waspsTest.php
